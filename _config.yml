@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Minsoo Cho"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student in Economics // Florida State University"
   location         : "Tallahassee, FL"
   employer         : "Florida State University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=L4TO0ZYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-3581-5051"
