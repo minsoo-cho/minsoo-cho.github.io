@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Minsoo Cho / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Minsoo Cho"
 title_separator          : "-"
 name                     : &name "Minsoo Cho"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Minsoo Cho"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Economics // Florida State University"
+  bio              : "Ph.D. student in Economics Florida State University"
   location         : "Tallahassee, FL"
   employer         : "Florida State University"
   uri              : # URL
