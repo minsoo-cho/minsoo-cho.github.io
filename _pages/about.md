@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Economics at Florida State University.
+**I am a PhD Student in Economics at Florida State University.**
 
 My fields of interest are applied microeconomics and public economics.
 
