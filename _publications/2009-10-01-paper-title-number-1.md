@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 1"
+title: "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journal
+permalink: /publication/movie-screening-survival-analysis
+excerpt: "This study analyzes the determinants of box-office survival among films released in the Seoul market using survival analysis (log-logistic AFT model)."
+date: 2022-09-01
+venue: "Journal of Social Science, 48(3), 33–49"
+paperurl: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002912978"
+doi: "10.15820/khjss.2022.48.3.002"
+citation: "Ohk, Hyunmin, Cho, Minsoo, & Jun, Bonggul (2022). &quot;Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data.&quot; <i>Journal of Social Science</i>, 48(3), 33–49. doi:10.15820/khjss.2022.48.3.002"
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper examines the determinants of box-office survival for films released in Seoul, South Korea.
+Using data on 2,003 movies released between 2007 and 2019, we estimate a log-logistic Accelerated Failure Time (AFT) model to identify key factors affecting a film’s duration within the weekly top 10 ranking.
+
+**Main findings include:**
+
+- Audience ratings and the number of screens at release significantly increase the survival time.
+- The effect of quality signals has strengthened over time, indicating growing consumer influence in the movie market.
+- Genre-specific differences exist in both the magnitude and significance of determinants.
+
+These results contribute to understanding strategic film distribution and audience behavior in a rapidly evolving cultural market. Further details are available through the link above.
